@@ -1,0 +1,16 @@
+# Ignore everything
+/*
+
+# Except the following
+!/.p10k.zsh
+!/README.md
+!/.gitignore
+!/.zshrc
+
+!/.vim
+
+!.config/
+
+.config/*
+!.config/nvim/
+
